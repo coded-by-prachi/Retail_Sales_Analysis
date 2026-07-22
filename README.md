@@ -109,7 +109,8 @@ Analyzed:
 - Profit by Category
 
 <img src="images_rsa/category_sales.png" width="500">
-<img src="images_rsa/category_profit.png" width="500"> 
+<img src="images_rsa/category_profit.png" width="500">
+
 
 
 
