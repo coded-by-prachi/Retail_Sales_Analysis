@@ -65,12 +65,7 @@ Key Performance Indicators (KPIs) were calculated to understand overall business
 - Total Orders
 - Total Customers
 
-<img src="images_rsa/category_sales.png" width="500">
-<img src="images_rsa/monthly_sales.png" width="500">
 <img src="images_rsa/price_trend.png" width="500">
-<img src="images_rsa/quarter_sales.png" width="500">
-<img src="images_rsa/category_profit.png" width="500"> 
-
 
 ---
 
@@ -115,7 +110,9 @@ Analyzed:
 - Sales by Category
 - Profit by Category
 
-<img src="images/category_analysis.png" width="450">
+<img src="images_rsa/category_sales.png" width="500">
+<img src="images_rsa/category_profit.png" width="500"> 
+
 
 
 ### Key Insight:
@@ -147,7 +144,9 @@ Analyzed:
 - Monthly Sales Trend
 - Quarterly Sales Trend
 
-<img src="images/sales_trend.png" width="500">
+<img src="images_rsa/monthly_sales.png" width="500">
+<img src="images_rsa/quarter_sales.png" width="500">
+
 
 
 ### Key Insight:
