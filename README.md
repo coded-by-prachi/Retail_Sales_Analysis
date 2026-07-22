@@ -65,7 +65,7 @@ Key Performance Indicators (KPIs) were calculated to understand overall business
 - Total Orders
 - Total Customers
 
-<img src="images_rsa/category_sales.png" width="500">
+<!-- <img src="images_rsa/category_sales.png" width="500">
 <img src="images_rsa/monthly_sales.png" width="500">
 <img src="images_rsa/price_trend.png" width="500">
 <img src="images_rsa/quarter_sales.png" width="500">
@@ -73,7 +73,7 @@ Key Performance Indicators (KPIs) were calculated to understand overall business
 <img src="images_rsa/region_sales.png" width="500">
 <img src="images_rsa/segment_sales.png" width="500">
 <img src="images_rsa/top_products.png" width="500">
-<img src="images_rsa/category_profit.png" width="500">
+<img src="images_rsa/category_profit.png" width="500"> -->
 
 
 ---
