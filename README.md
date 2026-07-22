@@ -69,10 +69,6 @@ Key Performance Indicators (KPIs) were calculated to understand overall business
 <img src="images_rsa/monthly_sales.png" width="500">
 <img src="images_rsa/price_trend.png" width="500">
 <img src="images_rsa/quarter_sales.png" width="500">
-<img src="images_rsa/region_profit.png" width="500">
-<img src="images_rsa/region_sales.png" width="500">
-<img src="images_rsa/segment_sales.png" width="500">
-<img src="images_rsa/top_products.png" width="500">
 <img src="images_rsa/category_profit.png" width="500"> 
 
 
@@ -86,7 +82,7 @@ Analyzed:
 - Sales by Segment
 - Profit by Segment
 
-<img src="images/segment_analysis.png" width="450">
+<img src="images_rsa/segment_sales.png" width="500">
 
 
 ### Key Insight:
@@ -102,7 +98,8 @@ Analyzed:
 - Region-wise Sales
 - Region-wise Profit
 
-<img src="images/region_analysis.png" width="450">
+<img src="images_rsa/region_sales.png" width="500">
+<img src="images_rsa/region_profit.png" width="500">
 
 
 ### Key Insight:
@@ -134,8 +131,7 @@ Analyzed:
 - Top Products by Sales
 - Top Products by Profit
 
-<img src="images/top_products.png" width="450">
-
+<img src="images_rsa/top_products.png" width="500">
 
 ### Key Insight:
 - Identified best-selling products and products with strong profit contribution.
@@ -168,8 +164,6 @@ Analyzed:
 - Profit Margin
 - Category-wise Profit
 - Region-wise Profit
-
-<img src="images/profit_analysis.png" width="450">
 
 
 ### Key Insight:
