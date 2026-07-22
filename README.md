@@ -91,7 +91,7 @@ Analyzed:
 - Region-wise Sales
 - Region-wise Profit
 
-<img src="images_rsa/region_sales.png" width="500">
+<img src="Retail Sales & Profit Analyticsimages_rsa/region_sales.png" width="500">
 <img src="images_rsa/region_profit.png" width="500">
 
 
