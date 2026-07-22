@@ -65,8 +65,6 @@ Key Performance Indicators (KPIs) were calculated to understand overall business
 - Total Orders
 - Total Customers
 
-<img src="images_rsa/price_trend.png" width="500">
-
 ---
 
 # 2. Segment Analysis
